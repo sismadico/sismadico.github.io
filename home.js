@@ -10,7 +10,7 @@ setPage:function(arr){
 home:`
 <div class="row striped-bg-both" id="page3">
 
-<div class="col-2-3 artikel"><span class="judul2">Free Enterprise Resource Planning </span><br>
+<div class="col-2-3 artikel"><span class="judul2">Sistem Informasi Akademik Sekolah </span><br>
 Gratis Program CMS, LMS, Presensi dan Akuntansi <br>
 <a href="#">download</a>
 </div>
@@ -23,7 +23,7 @@ Gratis Program CMS, LMS, Presensi dan Akuntansi <br>
 
 <div class="row gading" >
 <div class="col-1-3 artikel" >
-<i class="simg">${svg.icon('save')} </i>
+<i class="simg">${svg.icon('sls')} </i>
 <span class="judul">Free</span><br>Sistem Informasi Akademik Sekolah bisa diunduh dan digunakan.
 Maksimal produk yang bisa disimpan adalah 1000 item <br>
 + Live Demo <br>
@@ -395,4 +395,5 @@ nav.querySelectorAll('a').forEach(link => {
     nav.classList.remove('active');
   });
 });
+
 
